@@ -61,5 +61,3 @@
 # lst = lst[::-1] + lst[1:]
 # print(lst, '\n')
 
-
-
